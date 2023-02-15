@@ -9,4 +9,11 @@ for(let i=1;i<=num;i++){
 if(count==2){
    console.log("Prime");
 }
+<<<<<<< HEAD
 }
+=======
+else{
+   console.log("Not a Prime");
+}
+
+>>>>>>> 83f3816f793859ff23693dceac5c5dd070b1eebf
