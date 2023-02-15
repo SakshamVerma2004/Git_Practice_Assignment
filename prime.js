@@ -11,4 +11,3 @@ function prime(z){
   else{
      console.log("No");
   }
-}
